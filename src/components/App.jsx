@@ -108,14 +108,3 @@ export  class App extends React.Component {
     );
   }
 }
-
-// nanoid
-// import { nanoid } from 'nanoid'
-// model.id = nanoid() //=> "V1StGXR8_Z5jdHi6B-myT"
-
-
-// const Button = props => {
-//   const { kind, ...other } = props;
-//   const className = kind === "primary" ? "PrimaryButton" : "SecondaryButton";
-//   return <button className={className} {...other} />;
-// };
